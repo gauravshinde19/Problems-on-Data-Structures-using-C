@@ -34,7 +34,7 @@ void InsertFirst(PPNODE Head, int No)
 //
 // Function Name : Addition
 // Description   : It takes value of First pointer of linked list and return addition of all the elements of the LinkedList
-// Input         : Value of First pointer, Integer
+// Input         : Value of First pointer
 // Output        : Integer
 // Author        : Gaurav Mahadev Shinde
 // Date          : 4th July 2024
